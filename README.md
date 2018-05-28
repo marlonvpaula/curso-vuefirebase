@@ -1,6 +1,9 @@
 # nome-do-projeto
 
-> A Vue.js project
+> A Course of Vue.js in Maxicon Systems
+
+# Access in
+> https://vuetifypwa-cde9a.firebaseapp.com/
 
 ## Build Setup
 
